@@ -126,7 +126,7 @@ function reset(){
   ok = false;
   time=100;
   userChosenPattern = []
-  $('h1').text("You lost idoit!! click to Start again")
+  $('h1').text("You lost boy !! click to Start again")
 }
 
 $('h1').click(function(){
